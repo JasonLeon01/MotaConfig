@@ -1,0 +1,17 @@
+E:\Github Projects\MotaConfig\Config\bin\Release\net6.0-windows\win-x64\Config.exe
+E:\Github Projects\MotaConfig\Config\bin\Release\net6.0-windows\win-x64\Config.deps.json
+E:\Github Projects\MotaConfig\Config\bin\Release\net6.0-windows\win-x64\Config.runtimeconfig.json
+E:\Github Projects\MotaConfig\Config\bin\Release\net6.0-windows\win-x64\Config.dll
+E:\Github Projects\MotaConfig\Config\bin\Release\net6.0-windows\win-x64\Config.pdb
+E:\Github Projects\MotaConfig\Config\obj\Release\net6.0-windows\win-x64\Config.Form1.resources
+E:\Github Projects\MotaConfig\Config\obj\Release\net6.0-windows\win-x64\Config.Properties.Resources.resources
+E:\Github Projects\MotaConfig\Config\obj\Release\net6.0-windows\win-x64\Config.csproj.GenerateResource.cache
+E:\Github Projects\MotaConfig\Config\obj\Release\net6.0-windows\win-x64\Config.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github Projects\MotaConfig\Config\obj\Release\net6.0-windows\win-x64\Config.AssemblyInfoInputs.cache
+E:\Github Projects\MotaConfig\Config\obj\Release\net6.0-windows\win-x64\Config.AssemblyInfo.cs
+E:\Github Projects\MotaConfig\Config\obj\Release\net6.0-windows\win-x64\Config.csproj.CoreCompileInputs.cache
+E:\Github Projects\MotaConfig\Config\obj\Release\net6.0-windows\win-x64\Config.dll
+E:\Github Projects\MotaConfig\Config\obj\Release\net6.0-windows\win-x64\refint\Config.dll
+E:\Github Projects\MotaConfig\Config\obj\Release\net6.0-windows\win-x64\Config.pdb
+E:\Github Projects\MotaConfig\Config\obj\Release\net6.0-windows\win-x64\Config.genruntimeconfig.cache
+E:\Github Projects\MotaConfig\Config\obj\Release\net6.0-windows\win-x64\ref\Config.dll
