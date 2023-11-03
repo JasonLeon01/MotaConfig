@@ -13,7 +13,7 @@ namespace Config
         }
         private void LoadData()
         {
-            string path = Application.StartupPath + @"config.ini";
+            string path = Application.StartupPath + @"ref\config.ini";
             string datatext = System.IO.File.ReadAllText(path, Encoding.GetEncoding("GB2312"));
             data = datatext.Split(Environment.NewLine.ToCharArray());
             data = data.Where(s => !string.IsNullOrEmpty(s)).ToArray();
