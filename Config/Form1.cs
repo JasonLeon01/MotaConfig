@@ -30,7 +30,7 @@ namespace Config
             savedata = savedata + "frameRate=" + (comboBox2.SelectedIndex * 8 + 16).ToString() + "\n";
             savedata = savedata + "BGMVolume=" + (trackBar1.Value * 10).ToString() + "\n";
             savedata = savedata + "SEVolume=" + (trackBar2.Value * 10).ToString() + "\n";
-            System.IO.File.WriteAllText(Application.StartupPath + @"config.ini", savedata, Encoding.GetEncoding("GB2312"));
+            System.IO.File.WriteAllText(Application.StartupPath + @"ref\config.ini", savedata, Encoding.GetEncoding("GB2312"));
         }
 
         private void button2_Click(object sender, EventArgs e)
