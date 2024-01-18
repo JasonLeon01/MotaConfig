@@ -184,6 +184,7 @@
             Controls.Add(音量);
             Controls.Add(comboBox1);
             Controls.Add(label1);
+            FormBorderStyle = FormBorderStyle.FixedDialog;
             Icon = (Icon)resources.GetObject("$this.Icon");
             Margin = new Padding(2, 3, 2, 3);
             MaximizeBox = false;
