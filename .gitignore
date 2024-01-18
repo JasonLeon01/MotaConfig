@@ -1,3 +1,4 @@
 .vs
-MotaConfig
-MotaConfig.zip
+Config/bin/
+Config/obj/
+Config/Properties/
